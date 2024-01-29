@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Website name: GeoSpark Tanzania
+Author: Davies Amedeus
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a sub-website for geote.org which gives information about open data day event called Geo_Spark Tanzania.
+
